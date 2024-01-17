@@ -37,6 +37,7 @@ a {
 }
 
 
+
 /*---------------utility classes----------------*/
 .container {
   width: 70%;
@@ -958,7 +959,7 @@ flex-wrap:wrap;
 
 @media screen and (max-width: 425px) {
   :root {
-    font-size: 14px;
+    font-size: 13.5px;
   }
 
   .container {
