@@ -718,8 +718,18 @@ text-transform:uppercase;
     left: -2rem;
   }
 
+  .exp-point {
+    margin-block: 8px;
+    font-size: 0.9rem;
+  }
 
 
+  .education-section h2{
+    font-size: 1.1rem;
+  }
+  .resume-section h2{
+    font-size: 1.1rem;
+  }
 /*------------------------blog page-----------------------*/
 
 
@@ -908,10 +918,7 @@ padding:0.6rem;
     font-size: 1.5rem;
   }
 
-  .exp-point {
-    margin-block: 8px;
-    font-size: 1rem;
-  }
+
 
   .resume-section h2.yellow,
   .education-section h2.yellow {
